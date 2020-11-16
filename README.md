@@ -1,6 +1,6 @@
 # Teste_Gocontact
-Teste
 
-Novo readme
+Adicionados testes para correr no [Chrome Selenium IDE](https://www.selenium.dev/selenium-ide/).
 
-Novo Branch
+Testes a executar:
+![Screenshot](2020-11-16_00h39_31.png)
